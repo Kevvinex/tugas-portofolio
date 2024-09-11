@@ -1,0 +1,38 @@
+.dark-blue {
+    background-color:rgb(255, 94, 188)
+}
+
+.light-blue {
+    background-color: rgb(255, 151, 210);
+}
+
+.nav-item .nav-link:hover {
+    color:rgb(0, 0, 0);
+    border-bottom: 2px solid;
+}
+
+.nav-item .nav-link {
+    border-bottom: 2px solid rgb(255, 94, 188)
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.w-10 {
+    width: 150px;
+}
+
+.mb-6 {
+    margin-bottom: -30px;
+}
+    
+@media (max-width: 576px) {
+    .h1 {
+        color: red;
+    
+    }
+
+}
+    
+ 
